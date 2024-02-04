@@ -26,8 +26,10 @@ We welcome contributions! If you'd like to contribute to Groupie, follow these s
 
 If you encounter any issues or need support, please feel free to [open an issue](https://github.com/your-username/groupie/issues) on GitHub. We'll do our best to assist you.
 
+## 🎥 Watch the Introduction Video
 
-https://github.com/Ankit-Dhattarwal/Groupie/assets/109728587/e74b7623-2c72-4991-a7ce-125ce26ff3e0
-
+[![Video](![Uploading Screenshot 2024-02-04 at 7.44.57 PM.png…]()
+)](https://github.com/Ankit-Dhattarwal/Groupie/assets/109728587/e74b7623-2c72-4991-a7ce-125ce26ff3e0
+)
 
 Happy coding! 🚀✨
