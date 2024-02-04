@@ -8,7 +8,7 @@ import 'package:groupie/widgets/input_decoration.dart';
 
 import '../../helper/helper_function.dart';
 import '../home_pages.dart';
-import '../register_page.dart';
+import 'register_page.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

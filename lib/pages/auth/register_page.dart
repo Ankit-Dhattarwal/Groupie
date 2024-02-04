@@ -5,7 +5,7 @@ import 'package:groupie/pages/auth/login_pages.dart';
 import 'package:groupie/pages/home_pages.dart';
 import 'package:groupie/services/auth_serivces.dart';
 
-import '../widgets/input_decoration.dart';
+import '../../widgets/input_decoration.dart';
 
 class RegisterScreen extends StatefulWidget {
   const RegisterScreen({super.key});
